@@ -6,7 +6,7 @@ A running record of where this project stands. Updated as things happen, not at 
 
 v0.4.0 is **published**: https://www.npmjs.com/package/bd-commerce, with a SLSA provenance
 attestation from the tagged CI run. 226 tests, typecheck clean, ESM + CJS + d.ts build. Repo public
-at https://github.com/sabbir-offc/bd-commerce.
+at https://github.com/sabbir-being/bd-commerce.
 
 The next two things, in order:
 
@@ -172,7 +172,7 @@ examples/      steadfast-order.ts, bkash-checkout.ts
   keys confirmed the 401 mapping and revealed `attempts_left`; the client now surfaces the count via
   a new `annotateError` hook on `HttpClient`. Also fixed the drift checker, which was comparing
   error bodies against the success spec and reporting drift that did not exist. 86 tests.
-- **2026-09-09** — Repo created and pushed: https://github.com/sabbir-offc/bd-commerce (public).
+- **2026-09-09** — Repo created and pushed: https://github.com/sabbir-being/bd-commerce (public).
 - **2026-09-09** — Added `scripts/smoke-bkash.ts`. Running it against the sandbox with deliberately
   fake credentials found two real bugs, both fixed: bKash returns error bodies with a raw newline
   inside a JSON string value, which is not legal JSON, so `parseBody` fell back to raw text and a
