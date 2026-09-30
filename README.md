@@ -1,7 +1,7 @@
 # bd-commerce
 
 [![npm](https://img.shields.io/npm/v/bd-commerce.svg)](https://www.npmjs.com/package/bd-commerce)
-[![CI](https://github.com/sabbir-offc/bd-commerce/actions/workflows/ci.yml/badge.svg)](https://github.com/sabbir-offc/bd-commerce/actions/workflows/ci.yml)
+[![CI](https://github.com/sabbir-being/bd-commerce/actions/workflows/ci.yml/badge.svg)](https://github.com/sabbir-being/bd-commerce/actions/workflows/ci.yml)
 [![license](https://img.shields.io/npm/l/bd-commerce.svg)](LICENSE)
 
 Typed TypeScript clients for the infrastructure Bangladeshi e-commerce actually runs on: **Steadfast**,

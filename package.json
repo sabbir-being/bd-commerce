@@ -19,12 +19,12 @@
   "author": "Md. Sabbir Howlader",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sabbir-offc/bd-commerce.git"
+    "url": "git+https://github.com/sabbir-being/bd-commerce.git"
   },
   "bugs": {
-    "url": "https://github.com/sabbir-offc/bd-commerce/issues"
+    "url": "https://github.com/sabbir-being/bd-commerce/issues"
   },
-  "homepage": "https://github.com/sabbir-offc/bd-commerce#readme",
+  "homepage": "https://github.com/sabbir-being/bd-commerce#readme",
   "type": "module",
   "sideEffects": false,
   "engines": {
